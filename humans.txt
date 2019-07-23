@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Fritz Kschowak fkschowak@novomind.com
 
 # THANKS
 
